@@ -46,7 +46,7 @@ I am planning on doing some work on a personal website/blog which would allow me
 ## Boot Dev
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/e8d69149-625e-4fd9-88f8-1e778aa7a189/thumbnail" width="400" height="500"/>
+  <img src="https://api.boot.dev/v1/users/public/e8d69149-625e-4fd9-88f8-1e778aa7a189/thumbnail" >
 </p>
 
 ### BootDev Progress

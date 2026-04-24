@@ -138,6 +138,6 @@ I am hoping to start start work on a large personal project soon, which will inc
 ### Comptia Certificates
 
 <div align="center">
-  <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certification" width="500" height="600"/>
-  <img src="https://github.com/user-attachments/files/26183465/Certificate.pdf" alt="comptia A+ cyber" width="500" height="600"/>
+  <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certificate" width="500" height="600"/>
+  <img src="https://github.com/user-attachments/files/26183465/Certificate.pdf" alt="comptia A+ cyber certificate" width="500" height="600"/>
 </div>

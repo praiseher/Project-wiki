@@ -41,7 +41,7 @@ Hello wrld
 
 ## Future Projects
 
-I am planning on doing some work on a personal website/blog which would allow me to keep a more detailed progress report of my work with more frequent updates.
+I am hoping to start start work on a large personal project soon, which will incorperate cyber and also my coding knowledge together
 
 ## Boot Dev
 
@@ -55,6 +55,8 @@ I am planning on doing some work on a personal website/blog which would allow me
     <b>Currently I am making progress on a few different boot.dev projects:</b><br>
     <br>
     - Leaning Go
+    <br>
+    - Learning Retreval Augmented Generation in python (<a href="https://github.com/4seoul/Retrieval-Augmented-Generation">(Project repo)</a>
   </p>
   
 ### BootDev Projects

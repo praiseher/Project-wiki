@@ -121,6 +121,7 @@ I am hoping to start start work on a large personal project soon, which will inc
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c5f69fea-eac6-4cf1-99dc-cda3b161c0eb.jpeg?v=1762166008" alt="Learn git certificate" width="40%"/>
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9a1b9903-ec0f-434b-bc66-1123602613ca.jpeg?v=1768562339" alt="Functional programming python certificate" width="40%"/>
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/50d52f8b-e826-466b-af16-7907d4aaf806.jpeg?v=1772633854" alt="Learn data structures and algorithms python certificate" width="40%"/>
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/90e85a30-a424-4193-bb4e-cbbba8082943.jpeg?v=1781098464" alt="Learn Retrieval Augmented Generation certificate" width="40%"/>
 
 
 
